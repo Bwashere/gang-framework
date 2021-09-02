@@ -22,18 +22,6 @@ This order also applies in the startup order.
 - [esplugin_mysql](https://github.com/kanersps/esplugin_mysql)
 - [async](https://github.com/ESX-Org/async)
 
-
-
-### Using Git
-
-```
-cd resources
-git clone https://github.com/ESX-Org/es_extended [essential]/es_extended
-git clone https://github.com/ESX-Org/esx_menu_default [esx]/[ui]/esx_menu_default
-git clone https://github.com/ESX-Org/esx_menu_dialog [esx]/[ui]/esx_menu_dialog
-git clone https://github.com/ESX-Org/esx_menu_list [esx]/[ui]/esx_menu_list
-```
-
 ### Manually
 - Download https://github.com/ESX-Org/es_extended/releases/latest
 - Put it in the `resource/[essential]` directory
